@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=JISEOG PARK%20render&fontSize=90" />
+https://capsule-render.vercel.app/api?
+<img src="https://capsule-render.vercel.app/api?type=egg&color=random&height=300&section=header&text=JISEOG PARK%20render&fontSize=90" />
 
 ### About Me 👋
 - 발전을 위해 끊임없이 노력하는 주니어 웹 프론트엔드 개발자입니다.
