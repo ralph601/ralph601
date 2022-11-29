@@ -1,12 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JISEOG%20PARK&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=JISEOG%20PARK%20&height=300&fontSize=100&textBg=true)
 
-### About Me 👋
-- 발전을 위해 끊임없이 노력하는 주니어 웹 프론트엔드 개발자입니다.
+### About Me
+👋 Hi There! I'm Junior Web Front-End Developer.
 
-<h3 align="center"> ⚒️TECH STACK⚒️ </h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralph601&show_icons=true&theme=radical)
+
+<h3 align="center"> ⚒️ TECH STACK ⚒️ </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralph601&show_icons=true&theme=merko)
+
 
 
