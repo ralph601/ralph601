@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi%20I'm%20JISEOG!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 <h1>About Me</h1>
 👋 Hi There! I'm Junior Front-End Developer.<br><br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeff0101)](https://solved.ac/jeff0101/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralph601&show_icons=true&theme=radical)<br><br>
