@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=160&section=header&text=Hi%20I'm%20JISEOG!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=slice&color=B8F3B8&height=160&section=header&text=Hi%20I'm%20JISEOG!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=FFC681)
 <h1>About Me</h1>
 👋 Hi There! I'm Junior Front-End Developer.<br><br>
 
